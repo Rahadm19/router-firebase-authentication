@@ -1,9 +1,15 @@
+.header{
+    background-color: aqua;
+    height: 50px;
+
+}
 .header nav a{
     text-decoration: none;
     color: black;
     margin-right: 10px;
     font-size: larger;
     font-weight: 700;
+    padding: 10px;
 }
 .header nav a:hover{
     color: goldenrod;
